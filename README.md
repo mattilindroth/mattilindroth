@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Matti Lindroth
 - 👀 I’m interested in programming, technology, nature and politics
-- 🌱 I’m currently learning how to be a dad
+- 🌱 I do a lot of running and mountain bicycling. Aim is to run a full 100mile ultra trail some year.
 - 📫 How to reach me ...
 
 <!---
